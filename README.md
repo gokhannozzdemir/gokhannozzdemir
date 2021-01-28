@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokhan</h1>
-<h3 align="center">A Junior Software Developer from Istanbul. Therefore Im working on OOP and Programming Language. I experienced difference kind of project.💬 Ask me about me.</h3>
+<h3 align="center">A Junior Software Developer from Istanbul. Therefore Im working on OOP and Programming Language. I experienced difference kind of project.
+  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhannozzdemir&label=Profile%20views&color=0e75b6&style=flat" alt="gokhannozzdemir" /> </p>
 
